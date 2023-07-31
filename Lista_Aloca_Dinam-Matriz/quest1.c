@@ -1,5 +1,5 @@
-/*Alocar uma matyriz 5x5 e preencher cada elemento,
-depois imprimir a metriz*/
+/*Alocar uma matriz 5x5 e preencher cada elemento,
+depois imprimir a matriz*/
 
 #include <stdio.h>
 #include <stdlib.h>
